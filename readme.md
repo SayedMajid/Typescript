@@ -13,7 +13,7 @@
 
 # Compiling typescript code:
 
-    - tsc file.ts =>
+    - tsc file.ts => creates a file.js file with JavaScript code.
 
 # Compilation using tsconfig.json
 
@@ -22,4 +22,4 @@
 # Sections:
 
     - Section 1.1 Installation - Completed
-    - Section 1.2 Syntax - In progress
+    - Section 1.2 Syntax - Completed
